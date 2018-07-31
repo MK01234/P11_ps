@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P04_ps</string>
+    <string name="tvname">Name</string>
+    <string name="phone">phone number</string>
+    <string name="pax">number of people</string>
+    <string name="name">Name</string>
+    <string name="number">Phone number</string>
+    <string name="people">Number of pax</string>
+    <string name="rbsmoke">Smoker</string>
+    <string name="rbnonsmoke">Non Smoker</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="btnreset">Reset</string>
+    <string name="time">Day</string>
+    <string name="timepicker">Time</string>
+    <string name="ettime">Click here to select a time</string>
+    <string name="etdate">Click here to select a date</string>
+</resources>
